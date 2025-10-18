@@ -13,15 +13,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "网络编程/HTTP协议/详细介绍下 理解 <video> 标签如何发请求.md",
+                "file": "网络编程/HTTP协议/HTTP 视频流播放原理 + 实现机制.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "详细介绍下 理解 <video> 标签如何发请求"
+              "title": "HTTP 视频流播放原理 + 实现机制"
+            }
+          },
+          {
+            "id": "23177f17298fb2ac",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "网络编程/HTTP协议/服务端进行视频流转发.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "服务端进行视频流转发"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -78,7 +93,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 410.5
   },
   "right": {
     "id": "c09e30d3b7fbf8d3",
@@ -178,12 +193,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "36886c14997ae711",
+  "active": "23177f17298fb2ac",
   "lastOpenFiles": [
+    "网络编程/HTTP协议/服务端进行视频流转发.md",
+    "网络编程/HTTP协议/HTTP 视频流播放原理 + 实现机制.md",
     "网络编程/HTTP协议/详细介绍下 理解 <video> 标签如何发请求.md",
     "TRACES 介绍.md",
     "网络编程/HTTP协议/HTTP range 请求.md",
-    "网络编程/HTTP协议/HTTP 视频流播放原理 + 实现机制.md",
     "欢迎.md",
     "网络编程/HTTP协议",
     "未命名",
