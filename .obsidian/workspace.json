@@ -93,7 +93,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 410.5
+    "width": 264.5
   },
   "right": {
     "id": "c09e30d3b7fbf8d3",
@@ -193,7 +193,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "23177f17298fb2ac",
+  "active": "ea6c201e7547e4e5",
   "lastOpenFiles": [
     "网络编程/HTTP协议/服务端进行视频流转发.md",
     "网络编程/HTTP协议/HTTP 视频流播放原理 + 实现机制.md",
